@@ -22,7 +22,7 @@ Given a movie title, it recommends 5 similar movies based on the genre text.
 - The Prestige
 
 ## 📁 Files Included
-- `movie_recommender.ipynb`: Jupyter notebook with full implementation
+- `movie_recommender.ipynb`: Google colab notebook with full implementation
 
 ## ✍️ Author
 Built by Jupalli Sanjana as part of Summer of AI 2025 – CodEc Technologies.
